@@ -43,7 +43,7 @@
   
 - **[TestCase_TheInternet.xlsx](https://docs.google.com/spreadsheets/d/1fDkno_EbYTmRUXDHtz4L_tDUfflK48jTxLP7swW6geA/edit?usp=sharing)** – เอกสารรายละเอียด Test Case
   
-- **[BugReport_TheInternet.xlsx](https://docs.google.com/spreadsheets/d/1fDkno_EbYTmRUXDHtz4L_tDUfflK48jTxLP7swW6geA/edit?usp=sharing)** – เอกสารรายงานบั๊กที่พบในระบบ
+- **[BugReport_TheInternet.xlsx](https://docs.google.com/spreadsheets/d/1eoKhi_ITDnSsB0Ggb8D6IdEk0v34vT9vSAK8EwQEQfc/edit?usp=drivesdk)** – เอกสารรายงานบั๊กที่พบในระบบ
 
 ## จัดทำโดย
 พัทธนันท์ สุขมูล
