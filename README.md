@@ -22,7 +22,7 @@
 - **Test Documentation:** การจัดทำเอกสารและสรุปผลการทดสอบอย่างเป็นระบบ
 
 ### 🧰 Tools Used
-- **Microsoft Excel / Google Sheets:** จัดทำเอกสาร Test Case และ Bug Report
+- **Google Sheets:** จัดทำเอกสาร Test Case และ Bug Report
 - **GitHub:** จัดเก็บไฟล์และนำเสนอผลงาน Portfolio
 
 
